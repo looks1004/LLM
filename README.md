@@ -1,8 +1,15 @@
-# LLM
+1일차 25.06.23
 
-===1일차
+vscode extensions 설치:
+1. jupyter
+2. jupyter notebook
+2. jupyter-notebook-vscode
+4. python
+5. python Debugger
+
 
 https://bit.ly/4lguyKT
+https://drive.google.com/drive/folders/1tHMk1YbsFsdLr-3DV8yFmkKqSW0N7x1s
 
 python 3.11
 
@@ -27,16 +34,72 @@ LLM은 다음에 올 단어를 예상하는 방식으므로 할루시네이션 �
 감마
 https://gamma.app/create
 
-2일차 실습1 에서 사용할 키값
-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
+
 
 
 1. 필수패키지
 
 %pip install faiss-cpu
 
+===2일차 
 
-== 2일차 
+2일차 25.06.24
+
+https://tinyurl.com/yjyxpzy3
+
+백터db : https://tinyurl.com/889h6pw5
+
+pip install -r requirements.txt
+
+
+
+pip install tool_calls
+
+
+
+
+pip install langchain_chroma
+
+langchain_chroma
+
+
+include_domains=["naver.com","github.io","wikidocs.net"],
+
+로또 번호 생성기를 출력하는 코드를 작성하세요
+
+
+langchain 에서....   stream과 invoke 차이점
+
+
+with open(self.file_path, encoding=self.encoding) as f:
+
+
+ 임베딩은 단어나 문장 같은 텍스트 데이터를 저차원의 연속적인 벡터로 변환하는 과정입니다.
+
+
+
+
+===3일차 25.06.25==
+
+
+
+
+
+
+
+== 4일차 25.06.26
+
+https://tinyurl.com/326xe7nw
+
+
+pip install langchain_teddynote
+pip install pdfplumber
+
+
+
+
+
+
 
 
 
